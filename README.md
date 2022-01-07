@@ -1,6 +1,6 @@
 # Bits, Bytes, and Basics: Binary math and encoding schema lab
 
-This tutorial was written by [Lindsay K. Mattock](http://lindsaymattock.net) and adapted by [Katherine Walden](https://github.com/kwaldenphd). 
+This tutorial was written by [Lindsay K. Mattock](http://lindsaymattock.net) and adapted by [Katherine Walden](https://github.com/kwaldenphd) and John Templeton. 
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
@@ -45,7 +45,7 @@ This lab will explore the relationship between the logical and conceptual object
 
 ## What is a bit?
 
-As you read in Petzold this week, bits are the smallest unit of storage in a binary system - that is, the smallest unit of information processed by a computer. Information is stored as 0 or 1. You are probably more familiar with the term Byte – a group of 8 bits.
+Bits are the smallest unit of storage in a binary system - that is, the smallest unit of information processed by a computer. Information is stored as 0 or 1. You are probably more familiar with the term Byte – a group of 8 bits.
 
 - Kilobyte KB = 1,000 Bytes 
 - Megabyte MB = 1 million Bytes 
