@@ -64,7 +64,7 @@ Bits are the smallest unit of storage in a binary system - that is, the smallest
 - 6 bits – 64 (26)
 - 7 bits – 128 (27)
 - 8 bits – 256 (28)
-- n bits -  2^n patterns
+- n bits -  2<sup>n</sup> patterns
 
 ## Representing Numbers in Bytes
 
