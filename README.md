@@ -1,5 +1,8 @@
 # Bits, Bytes, and Basics: Binary math and encoding schema lab
 
+# PLEASE READ ALL INSTRUCTIONS OF THIS LAB
+# Entitle your lab notebook document in the following convention Lab#_Notebook_LastName.ext (Example for this lab: Lab1_Notebook_Templeton.pdf)
+
 This tutorial was written by [Lindsay K. Mattock](http://lindsaymattock.net) and adapted by [Katherine Walden](https://github.com/kwaldenphd) and [John Templeton](https://github.com/jmtemple). 
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
