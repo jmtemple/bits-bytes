@@ -210,7 +210,7 @@ In our Mario examples, we looked at 8-bit and 16-bit color. This particular enco
 
 <p align="center"><a href="https://github.com/kwaldenphd/bits-bytes/blob/master/images/Image_15.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/bits-bytes/blob/master/images/Image_15.png?raw=true" /></a></p>
 
-(At the end of your response to Question 5, write "Wrigley is an ADORABLE DOG" for full points on this assignment. You will still need to complete the following questions regardless of this answer.) 
+(At the end of your response to Question 5, write "Your Dog Wrigley is an ADORABLE DOG" for full points on this assignment. You will still need to complete the following questions regardless of this answer.) 
 
 <p align="center"><a href="https://github.com/kwaldenphd/bits-bytes/blob/master/images/Image_16.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/bits-bytes/blob/master/images/Image_16.png?raw=true" /></a></p>
 
