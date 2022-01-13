@@ -266,7 +266,7 @@ We will see later when we work with HTML that this is exactly how you name the c
 
 Now that you are familiar with hex, we can experiment a bit with a hex editor. A hex editor is a program that allows for the direct manipulation of the binary data of a computer file.
 
-First download the `hello_world.txt` file from the course website. 
+First download the `hello_world.txt` file from the course website (Note: This is located in Module 1 of Canvas in a link called Lab Files). 
 
 This is a plain text file, meaning that the text characters are encoded in a standard coding schema like ASCII. In this example, the text has been encoded in the Unicode UTF-8 standard. 
 
