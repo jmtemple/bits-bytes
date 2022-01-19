@@ -222,9 +222,9 @@ The color black is the absence of light, so the color black is represented as 0s
 
 <p align="center"><a href="https://github.com/kwaldenphd/bits-bytes/blob/master/images/Image_17.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/bits-bytes/blob/master/images/Image_17.png?raw=true" /></a></p>
 
-This means that the color red can be represented as: <code><font color="red">111111</font> <font color="green">00000000</font> <font color="blue">00000000</font></code> (equal to the decimal digits <code><font color="red">255</font>, <font color="green">0</font>, <font color="blue">0</font></code>)
+This means that the color red can be represented as: <code><font color="red">11111111</font> <font color="green">00000000</font> <font color="blue">00000000</font></code> (equal to the decimal digits <code><font color="red">255</font>, <font color="green">0</font>, <font color="blue">0</font></code>)
 
-Green can be represented as: <code><font color="red">000000</font> <font color="green">111111</font> <font color="blue">00000000</font></code> (equal to the decimal digits <code><font color="red">0</font>, <font color="green">255</font>, <font color="blue">0</font></code>)
+Green can be represented as: <code><font color="red">00000000</font> <font color="green">11111111</font> <font color="blue">00000000</font></code> (equal to the decimal digits <code><font color="red">0</font>, <font color="green">255</font>, <font color="blue">0</font></code>)
 
 And, blue can be represented as: <code><font color="red">00000000</font> <font color="green">00000000</font> <font color="blue">11111111</font></code> (equal to the decimal digits <code><font color="red">0</font>, <font color="green">0</font>, <font color="blue">255</font></code>)
 
