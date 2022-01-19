@@ -226,7 +226,7 @@ This means that the color red can be represented as: <code><font color="red">111
 
 Green can be represented as: <code><font color="red">000000</font> <font color="green">111111</font> <font color="blue">00000000</font></code> (equal to the decimal digits <code><font color="red">0</font>, <font color="green">255</font>, <font color="blue">0</font></code>)
 
-And, blue can be represented as: <code><font color="red">000000</font> <font color="green">000000</font> <font color="blue">111111</font></code> (equal to the decimal digits <code><font color="red">0</font>, <font color="green">0</font>, <font color="blue">255</font></code>)
+And, blue can be represented as: <code><font color="red">00000000</font> <font color="green">00000000</font> <font color="blue">11111111</font></code> (equal to the decimal digits <code><font color="red">0</font>, <font color="green">0</font>, <font color="blue">255</font></code>)
 
 <blockquote>Q13: Given this logic, how would the colors Magenta, Cyan, and Yellow be represented in binary? You can check your answers with this RGB Color Codes Chart http://www.rapidtables.com/web/color/RGB_Color.htm.</blockquote>
 
